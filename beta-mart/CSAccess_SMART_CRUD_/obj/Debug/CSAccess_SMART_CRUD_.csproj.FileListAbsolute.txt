@@ -1,0 +1,42 @@
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.exe.config
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.exe
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.pdb
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csprojAssemblyReference.cache
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.Form1.resources
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.Properties.Resources.resources
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.GenerateResource.cache
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.CoreCompileInputs.cache
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.exe
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD_\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.pdb
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.exe.config
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.exe
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.pdb
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csprojAssemblyReference.cache
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.Form1.resources
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.Properties.Resources.resources
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.GenerateResource.cache
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.CoreCompileInputs.cache
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.exe
+C:\Users\GeeCo\source\repos\CSAccess_SMART_CRUD\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.pdb
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.exe.config
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.exe
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.pdb
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.AssemblyReference.cache
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.SuggestedBindingRedirects.cache
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.Form1.resources
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.Properties.Resources.resources
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.GenerateResource.cache
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.CoreCompileInputs.cache
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.exe
+D:\XII-RPL-5\UKK\OOP UKK\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.pdb
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.exe.config
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.exe
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\bin\Debug\CSAccess_SMART_CRUD_.pdb
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.AssemblyReference.cache
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.SuggestedBindingRedirects.cache
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.Form1.resources
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.Properties.Resources.resources
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.GenerateResource.cache
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.csproj.CoreCompileInputs.cache
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.exe
+D:\XII-RPL-5\UKK\beta-mart\CSAccess_SMART_CRUD_\obj\Debug\CSAccess_SMART_CRUD_.pdb
